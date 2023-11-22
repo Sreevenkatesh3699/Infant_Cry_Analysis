@@ -1,1 +1,2 @@
 # Infant_Cry_Analysis
+The project titled "Infant Cry Analysis using Raspberry Pi" focuses on leveraging machine learning techniques for the classification of infant cries to understand their underlying needs. The system employs a Raspberry Pi along with a trained machine learning model to process and analyse audio signals obtained from a microphone. The primary objective is to categorize infant cries into distinct classes corresponding to different needs such as hunger, discomfort, tiredness, belly pain, and the need for burping.
